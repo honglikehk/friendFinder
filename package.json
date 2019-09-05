@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/honglikehk/friendFinder/issues"
   },
-  "homepage": "https://github.com/honglikehk/friendFinder#readme"
+  "homepage": "https://github.com/honglikehk/friendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
